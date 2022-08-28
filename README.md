@@ -6,7 +6,7 @@ This template should help get you started developing with laravel 9 + Vue 3 in V
 ## Project Setup
 
 ```sh
-git clone https://github.com/akramdev-ye/simple-project.git
+git clone https://github.com/akramghaleb/simple-project.git
 ```
 
 ```sh
